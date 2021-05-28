@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, 👋</h1><br>
+<h1 align="center">Hey There, 👋</h1>
 <h3 align="center">Hi, I am an enthusistic programmer from IIT Madras</h3>
 <!--
 ##
