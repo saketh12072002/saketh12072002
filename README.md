@@ -1,11 +1,11 @@
 <h1 align="center">Hey There, 👋</h1><br>
 <h3 align="center">Hi, I am an enthusistic programmer from IIT Madras</h3>
-
+<!--
 ##
--🌱 I'm currently learning CSS and Javascript and working on website development. I love programming as it is quite challenging and pleasurable.
+<p>🌱 I'm currently learning CSS and Javascript and working on website development. I love programming as it is quite challenging and pleasurable.
 -
 ##
-  <!--
+  
 **saketh12072002/saketh12072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
