@@ -1,14 +1,13 @@
 <h1 align="center"><b>Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saketh<b></h1>
-<h2 align="center">Hi, I am an enthusistic programmer from IIT Madras</h2>
-<br>
+<h2 align="center">Hi, I'm an enthusistic programmer from IIT Madras</h2>
+
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
- <p>I'm Saketh from India. I'm working as a SOC Webops Coordinator, IIT Madras.</p>
  
 ##
-- 🔭  I'm dealing with Front-End development and trying to master in <b>CSS</b> and <b>Javascript</b>.
-- 🌱  I am a passionate programmer longing to contribute on some cool projects and improve my skills. I'm interested in Android Web development.
-- 📫 How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
-- ⚡ Fun fact:<i>"Copy-&-Paste was programmed by programmers for programmers actually."</i>
+ - 🔭  I'm dealing with Front-End development and trying to master in <b>CSS</b> and <b>Javascript</b>.
+ - 🌱  I am a passionate programmer longing to contribute on some cool projects and improve my skills. I'm interested in Android Web development.
+ - 📫 How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
+ - ⚡ Fun fact:<i>"Copy-&-Paste was programmed by programmers for programmers actually."</i>
 ##
 
 <h3><b>Connect With Me :</b></h3>
