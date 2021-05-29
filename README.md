@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saketh<b></h1>
-<h2 align="center">Hi, I'm an enthusistic programmer from IIT Madras</h2>
+<h2 align="center">Hi, I'm an enthusistic programmer from IIT Madras, India</h2>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
  
