@@ -1,11 +1,14 @@
-<h1 align="center">Hey There, 👋</h1>
+<h1 align="center">Hey There,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">Hi, I am an enthusistic programmer from IIT Madras</h3>
-<!--
+<br>
+<p>I'm B. Saketh from Andhra Pradesh 😎, India. I'm working as a SOC Webops Coordinator, IIT Madras.</p>
+
 ##
-<p>🌱 I'm currently learning CSS and Javascript and working on website development. I love programming as it is quite challenging and pleasurable.
--
+- 🔭  I'm dealing with front end development and trying to master in CSS and Javascript.
+- 🌱  I am a keen programming beginner eager to contribute on some cool projects.
+- 📫 How to reach me: Drop an Email at brmnsaketh@gmail.com.
 ##
-  
+ <!-- 
 **saketh12072002/saketh12072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
