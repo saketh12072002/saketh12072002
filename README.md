@@ -1,24 +1,35 @@
-<h1 align="center">Hey There,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<h3 align="center">Hi, I am an enthusistic programmer from IIT Madras</h3>
+<h1 align="center"><b>Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saketh<b></h1>
+<h2 align="center">Hi, I am an enthusistic programmer from IIT Madras</h2>
 <br>
-<p>I'm B. Saketh from Andhra Pradesh 😎, India. I'm working as a SOC Webops Coordinator, IIT Madras.</p>
-
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+ <p>I'm Saketh from India. I'm working as a SOC Webops Coordinator, IIT Madras.</p>
+ 
 ##
-- 🔭  I'm dealing with front end development and trying to master in CSS and Javascript.
-- 🌱  I am a keen programming beginner eager to contribute on some cool projects.
-- 📫 How to reach me: Drop an Email at brmnsaketh@gmail.com.
+- 🔭  I'm dealing with Front-End development and trying to master in <b>CSS</b> and <b>Javascript</b>.
+- 🌱  I am a passionate programmer longing to contribute on some cool projects and improve my skills. I'm interested in Android Web development.
+- 📫 How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
+- ⚡ Fun fact:<i>"Copy-&-Paste was programmed by programmers for programmers actually."</i>
 ##
- <!-- 
-**saketh12072002/saketh12072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><b>Connect With Me :</b></h3>
+<p align="left">
+    <a href=https://www.instagram.com/iamsaketh.1207/ target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" height="35"></a>
+    <a href="https://www.facebook.com/lucky.bokka.7/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" height="35"></a></p>
+<br>
+ <h3 align="left"><b>Languages and Skills :</b></h3>
+   <a href="https://www.cprogramming.com/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35"
+            height="35" /> </a>
+   <a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+             width="35" height="35"/> </a>
+   <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+             width="35" height="35"/> </a>  
+   <a href="https://www.python.org" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+             width="35" height="35"/> </a>
+ <h4><b>My Github Stats:</b></h4>
+ <p> <img src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=gotham" alt="saketh12072002"/></p>
