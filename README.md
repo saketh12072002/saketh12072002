@@ -30,5 +30,5 @@
    <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
              width="35" height="35"/> </a><br>
- <h4><b>My Github Stats:</b></h4>
+ <h3><b>My Github Stats:</b></h3>
  <p> <img src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=gotham" alt="saketh12072002"/></p>
