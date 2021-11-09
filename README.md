@@ -7,7 +7,6 @@
  - 🔭  I'm dealing with Front-End development and trying to master in <b>CSS</b> and <b>Javascript</b>.
  - 🌱  I am a passionate programmer longing to contribute on some cool projects and improve my skills.
  - 📫 How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
- - ⚡ Fun fact:<i>"Copy-&-Paste was programmed by programmers for programmers actually."</i>
 ##
 
 <h3><b>Connect With Me :</b></h3>
@@ -32,6 +31,14 @@
    <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
              width="35" height="35"/> </a>
+  <a href="https://git-scm.com/" target="_blank" title ="git"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a>
+  <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a><br>
