@@ -44,8 +44,8 @@
             alt="javascript" width="40" height="40" /> </a><br>
  
  <h3><b>My Github Stats:</b></h3>
- <p> <img src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=gotham" alt="saketh12072002"/></p>
-<div align=right>
+ <p> <img src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=gotham" alt="saketh12072002"/></p><br>
+<div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh12072002&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
     </a>
