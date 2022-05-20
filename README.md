@@ -45,4 +45,6 @@
  
  <h3><b>My Github Stats:</b></h3>
  <p> <img src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=gotham" alt="saketh12072002"/></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>
