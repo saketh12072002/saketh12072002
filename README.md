@@ -45,4 +45,4 @@
  
  <h3><b>My Github Stats:</b></h3>
  <p> <img src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=gotham" alt="saketh12072002"/></p>
- [![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saketh12072002)](https://github.com/saketh12072002/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saketh12072002)](https://github.com/anuraghazra/github-readme-stats)
