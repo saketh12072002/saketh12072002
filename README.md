@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saketh<b></h1>
-<h2 align="center">Hi, I'mma programmer from IIT Madras</h2>
+<h2 align="center">Hi, I'm a programmer from IIT Madras</h2>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat"/> </p>
  
@@ -45,4 +45,4 @@
  
  <h3><b>My Github Stats:</b></h3>
  <p> <img src="https://github-readme-stats.vercel.app/api?username=saketh12072002&show_icons=true&theme=gotham" alt="saketh12072002"/></p>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saketh12072002)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
