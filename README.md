@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hello, I am Saketh<b></h1>
-<h2 align="center">Hi, I'm a programmer from IIT Madras</h2>
+<h2 align="center">I'm a programmer from IIT Madras</h2>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat"/> </p>
  
 ##
- - 🔭  I'm working in Full Stack Web developement and learning a bit of <b>Python</b>.
+ - 🔭  I'm a Full Stack Web developer and a competitive coder in Data Structures and Algorithms.
  - 🌱  Exploring different areas of Programming.
  - 📫 How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
 ##
