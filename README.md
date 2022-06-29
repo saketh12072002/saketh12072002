@@ -4,7 +4,7 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat"/> </p>
  
 ##
- - 🔭  I'm a Full Stack Web developer and a competitive coder in Data Structures and Algorithms.
+ - 🔭  I'm a Full Stack Web developer and mastering in Data Structures and Algorithms.
  - 🌱  Exploring different areas of Programming.
  - 📫 How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
 ##
