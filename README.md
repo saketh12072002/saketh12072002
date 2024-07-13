@@ -1,19 +1,19 @@
-<h1 align="center"><b>Hello, Saketh here<b></h1>
-<h2 align="center">I'm a programmer from IIT Madras</h2>
+<h1 align="center"><b>Hello 🥳, Saketh here<b></h1>
+<h2 align="center">I'm a Product Enthusiast</h2>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat"/> </p>
  
 ##
- - 🔭  I'm a Full Stack Web developer and mastering in Data Structures and Algorithms.
- - 🌱  Exploring different areas of Programming.
- - 📫 How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
+ - 🔭  I'm a Software Developer at Air India, working on myself.
+ - 🌱  Experienced Product Engineer with a strong background in Software Project Management, overseeing the entire product lifecycle.
+ - 📫  How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
 ##
 
 <h3><b>Connect With Me :</b></h3>
 <p align="left">
-    <a href=https://twitter.com/12Iamsaketh target="blank"><img align="center" 
+    <a href=https://x.com/12Iamsaketh target="blank"><img align="center" 
             src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" height="35"></a>
-    <a href=https://www.instagram.com/iamsaketh.1207/ target="blank"><img align="center"
+    <a href=https://www.linkedin.com/in/saketh-ram-630908211/ target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" height="35"></a>
     <a href="https://www.facebook.com/lucky.bokka.7/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" height="35"></a></p>
