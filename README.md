@@ -1,11 +1,11 @@
-<h1 align="center"><b>Hello 🥳, Saketh here<b></h1>
-<h2 align="center">I'm a Product Enthusiast</h2>
+<h1 align="center"><b>Hii, this is Saketh<b></h1>
+<h2 align="center">I'm a Software Geek</h2>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saketh12072002&label=Profile%20Views&color=0e75b6&style=flat"/> </p>
  
 ##
- - 🔭  I'm a Software Developer at Air India, working on myself.
- - 🌱  Experienced Product Engineer with a strong background in Software Project Management, overseeing the entire product lifecycle.
+ - 🔭  I'm working as a Software Developer, figuring out my career.
+ - 🌱  Experiencing the magic of Product development, focusing on my goals.
  - 📫  How to reach me: Drop an Email at ✨brmnsaketh@gmail.com ✨.
 ##
 
@@ -13,7 +13,7 @@
 <p align="left">
     <a href=https://x.com/12Iamsaketh target="blank"><img align="center" 
             src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" height="35"></a>
-    <a href=https://www.linkedin.com/in/saketh-ram-630908211/ target="blank"><img align="center"
+    <a href=https://www.linkedin.com/in/b-saketh-ram/ target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" height="35"></a>
     <a href="https://www.facebook.com/lucky.bokka.7/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" height="35"></a></p>
